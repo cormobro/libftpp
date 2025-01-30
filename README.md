@@ -1,8 +1,8 @@
 <h2><b>Functions</b></h2>
 
 <b>Data Structures</b>
--> Pool
--> DataBuffer
+<br />-> Pool
+<br />-> DataBuffer
 
 <b>Design Patterns</b>
 -> Memento
