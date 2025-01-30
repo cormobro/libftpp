@@ -5,27 +5,27 @@
 <br />-> DataBuffer
 
 <b>Design Patterns</b>
--> Memento
--> Observer
--> Singleton
--> StateMachine
+<br />-> Memento
+<br />-> Observer
+<br />-> Singleton
+<br />-> StateMachine
 
 <b>IOStream</b>
--> ThreadSafeIOStream
+<br />-> ThreadSafeIOStream
 
 <b>Threads</b>
--> ThreadSafeQueue
--> Thread
--> WorkerPool
--> PersistentWorker
+<br />-> ThreadSafeQueue
+<br />-> Thread
+<br />-> WorkerPool
+<br />-> PersistentWorker
 
 <b>Network</b>
--> Message
--> Client
--> Server
+<br />-> Message
+<br />-> Client
+<br />-> Server
 
 <b>Mathematics</b>
--> IVector2
--> IVector3
--> Random2DCoordinateGenerator
--> PerlinNoise2D
+<br />-> IVector2
+<br />-> IVector3
+<br />-> Random2DCoordinateGenerator
+<br />-> PerlinNoise2D
